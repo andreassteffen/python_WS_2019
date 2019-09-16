@@ -6,6 +6,8 @@ please install the following libraries:
 * seaborn
 * mygene
 * sqlite3
+* keras
+* sklearn
 
 
 # data download
@@ -15,3 +17,6 @@ please download the following files:
 * mutation
 * expression
 
+and also:
+the mask_rcnn_balloon.h5
+ model from https://github.com/matterport/Mask_RCNN/releases
