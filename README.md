@@ -17,7 +17,9 @@ in addition:
 # data download
 please download the following files:
 [url](https://depmap.org/portal/download/)
+
 cd python_WS_2019/data
+
 * sample info
 wget https://ndownloader.figshare.com/files/16757723 -o sample_info.csv
 * mutation
