@@ -18,14 +18,14 @@ in addition:
 please download the following files:
 [url](https://depmap.org/portal/download/)
 
-cd python_WS_2019/data
+cd python_WS_2019/data 
 
 * sample info:
-  * wget https://ndownloader.figshare.com/files/16757723 -o sample_info.csv
+  * wget https://ndownloader.figshare.com/files/16757723 -O sample_info.csv
 * mutation data:
-  * wget https://ndownloader.figshare.com/files/16757702 -o mutation.csv
+  * wget https://ndownloader.figshare.com/files/16757702 -O mutation.csv
 * expression data:
-  * wget https://ndownloader.figshare.com/files/16757690 -o expression.csv
+  * wget https://ndownloader.figshare.com/files/16757690 -O expression.csv
 
 and also:
 the mask_rcnn_balloon.h5
