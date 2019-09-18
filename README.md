@@ -1,17 +1,13 @@
 # python_WS_2019
 
 # installation
-clone this rep via 
+## clone this rep via 
 git clone https://github.com/andreassteffen/python_WS_2019.git
 
-please install the following libraries:
-* pandas
-* seaborn
-* mygene
-* sqlite3
-* keras
-* sklearn
-
+## install all dependencies
+* open the terminal
+* cd python_WS
+* type conda env create -f environment.yml
 
 # data download
 please download the following files:
