@@ -21,11 +21,11 @@ please download the following files:
 cd python_WS_2019/data
 
 * sample info:
- * wget https://ndownloader.figshare.com/files/16757723 -o sample_info.csv
+  * wget https://ndownloader.figshare.com/files/16757723 -o sample_info.csv
 * mutation data:
- * wget https://ndownloader.figshare.com/files/16757702 -o mutation.csv
+  * wget https://ndownloader.figshare.com/files/16757702 -o mutation.csv
 * expression data:
- * wget https://ndownloader.figshare.com/files/16757690 -o expression.csv
+  * wget https://ndownloader.figshare.com/files/16757690 -o expression.csv
 
 and also:
 the mask_rcnn_balloon.h5
