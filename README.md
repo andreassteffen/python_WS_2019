@@ -1,6 +1,9 @@
 # python_WS_2019
 
 # installation
+clone this rep via 
+git clone https://github.com/andreassteffen/python_WS_2019.git
+
 please install the following libraries:
 * pandas
 * seaborn
