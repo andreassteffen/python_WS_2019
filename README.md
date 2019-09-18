@@ -9,7 +9,7 @@ git clone https://github.com/andreassteffen/python_WS_2019.git
 * cd python_WS
 * type conda env create -f environment.yml
 * type python -m ipykernel install --user --name python_workshop_2019
-
+* type conda install -c conda-forge matplotlib-venn
 in addition:
 * pip install matplotlib-venn
 
