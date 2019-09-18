@@ -8,6 +8,7 @@ git clone https://github.com/andreassteffen/python_WS_2019.git
 * open the terminal
 * cd python_WS
 * type conda env create -f environment.yml
+* type python -m ipykernel install --user --name python_workshop_2019
 
 # data download
 please download the following files:
